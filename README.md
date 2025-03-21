@@ -1,16 +1,17 @@
 # Capstone ML 2025
-This project focuses on predicting house prices using machine learning techniques.
 
-## 🎥 Movie Recommendation System
-**Problem:**  
+# 🎥 Movie Recommendation System
+
+## Problem
 The goal is to create a personalized recommendation system to suggest movies to users based on their viewing history and preferences. This can be achieved using collaborative filtering (such as Matrix Factorization or SVD) or content-based filtering.
 
 **Data Required:**  
 netflix_movies_detailed_up_to_2025.csv
 
 
-## 🐾 Star Classification System
-**Problem:**  
+# 🐾 Star Classification System
+
+## Problem
 The goal is to develop an image classification system that can classify different types of stars based on their spectral data. This system could be useful in astronomy research, identifying star types, or automating star cataloging processes.
 
 **Data Required:**  
